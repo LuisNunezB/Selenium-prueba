@@ -3,6 +3,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hola Mundo");
         ArrayList<Integer> myNumbers = new ArrayList<Integer>();
         myNumbers.add(10);
         myNumbers.add(15);
